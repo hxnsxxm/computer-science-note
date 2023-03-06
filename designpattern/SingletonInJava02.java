@@ -11,14 +11,14 @@
 인스턴스가 만들어졌는데도 getInstance() 는 호출이 가능하니 해당부분도 좋지 ㅇ낳다.
 
 */
-public class Singleton02 {
-	private static Singleton02 instance;
+public class SingletonInJava02 {
+	private static SingletonInJava02 instance;
 	
-	private Singleton02() {}
+	private SingletonInJava02() {}
 	
-	public static synchronized Singleton02 getInstance() {
+	public static synchronized SingletonInJava02 getInstance() {
 		if (instance == null) {
-			instance = new Singleton02();
+			instance = new SingletonInJava02();
 		}
 		return instance;
 	}
