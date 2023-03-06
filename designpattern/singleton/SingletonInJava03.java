@@ -1,3 +1,4 @@
+package singleton;
 
 /*
 3. 정적 멤버

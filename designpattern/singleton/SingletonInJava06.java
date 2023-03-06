@@ -1,3 +1,4 @@
+package singleton;
 
 /*
 6. 이중 확인 잠금(DCL)

@@ -1,3 +1,4 @@
+package singleton;
 
 /*
 4. 정적 블록
