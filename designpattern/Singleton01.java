@@ -1,4 +1,4 @@
-package designpattern;
+
 
 class Singleton {
 	private static class singleInstanceHolder {

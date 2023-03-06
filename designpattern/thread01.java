@@ -1,4 +1,4 @@
-package designpattern;
+
 
 public class thread01 {
 	private static String yunha = "오르트구름";
