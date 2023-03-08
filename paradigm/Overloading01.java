@@ -1,4 +1,3 @@
-
 class Person {
 	public void eat(String a) {
 		System.out.println("I eat " + a);
